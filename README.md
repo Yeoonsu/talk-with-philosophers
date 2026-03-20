@@ -43,7 +43,7 @@ https://gutenberg.org/
 - Lightweight optimization
 - Optional local deployment
 - Korean language optimization
-- English release for broader accessibility
+- English release for broader accessibility (Project side)
 
 ## Status
 
