@@ -1,5 +1,7 @@
 # Philosopher Agents
 
+**Date:** 2026-03
+
 An open-source project that recreates historical philosophers as AI agents for accessible, reflective dialogue.
 
 Anyone should be able to talk to thinkers such as:
@@ -11,8 +13,6 @@ Anyone should be able to talk to thinkers such as:
 - Dale Carnegie
 
 Clearly. Kindly. Intelligibly.
-
----
 
 ## Vision
 
@@ -29,8 +29,6 @@ Execution is rare.
 
 This repository exists as a commitment to action.
 
----
-
 ## First Implementation
 
 The first philosopher to be implemented:
@@ -39,8 +37,6 @@ The first philosopher to be implemented:
 
 https://gutenberg.org/
 His works are publicly available via Project Gutenberg and will be used as foundational material.
-
----
 
 ## Technical Direction (Planned)
 
@@ -51,16 +47,12 @@ His works are publicly available via Project Gutenberg and will be used as found
 - Korean language optimization
 - English release for broader accessibility
 
----
-
 ## Status
 
 Early stage.  
 Architecture planning in progress.
 
 This is an experimental open-source project.
-
----
 
 ## License
 
@@ -70,12 +62,10 @@ You may use, modify, and distribute this project — including for commercial pu
 
 See the LICENSE file for details.
 
----
-
 ## Note
 
 I’m heading out for a 3 PM meeting (and currently running to take a shower),  
-so the repository name and structure may be revised later tonight.
+so the repository name and structure may be revised later night.
 
 This is an initial placeholder to begin the project publicly.
 More refinement will follow.
