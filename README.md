@@ -31,7 +31,7 @@ This repository exists as a commitment to action.
 ## First Implementation
 
 The first philosopher to be implemented:  
-**"Michel de Montaigne"**
+**"Michel de Montaigne (1533-1592)"**
 His works are publicly available via Project Gutenberg and will be used as foundational material.  
 
 https://gutenberg.org/  
