@@ -1,9 +1,8 @@
-# Philosopher Agents
+# Conversations with AI Philosophers — for the Searching Minds of South Korea's MZ Generation
 
 **Date:** 2026-03
 
 An open-source project that recreates historical philosophers as AI agents for accessible, reflective dialogue.
-
 Anyone should be able to talk to thinkers such as:
 
 - Confucius
@@ -32,7 +31,6 @@ This repository exists as a commitment to action.
 ## First Implementation
 
 The first philosopher to be implemented:
-
 "Michel de Montaigne"
 
 https://gutenberg.org/
@@ -51,15 +49,12 @@ His works are publicly available via Project Gutenberg and will be used as found
 
 Early stage.  
 Architecture planning in progress.
-
 This is an experimental open-source project.
 
 ## License
 
 This project is licensed under the Apache License 2.0.
-
 You may use, modify, and distribute this project — including for commercial purposes — under the terms of the license.
-
 See the LICENSE file for details.
 
 ## Note
